@@ -9,7 +9,8 @@ An Express JS Note Taker that is simple and fast in jotting down notes that the 
 
 # Website Preview
 
-![placeholder](placeholder.jpg)
+![Opening Scene](./images/notetaker1.jpg)
+![Note taking](./images/notetaker2.jpg)
 
 # Website Link
 
